@@ -45,4 +45,4 @@ Automated build, test, security scanning, and deployment pipeline.
 
 I'm always interested in connecting with other Cloud & DevOps engineers, learning from the community, and collaborating on interesting projects.
 
-📧 Email: your-email@example.com
+📧 Email: your-princesharma63530@gmail.com
