@@ -17,11 +17,7 @@ I enjoy working with AWS, Docker, Kubernetes, Terraform, CI/CD, Linux, and GitHu
 
  🔨 What I Build
 
-- Cloud infrastructure using Terraform
 - CI/CD pipelines for automated deployments
-- Containerized applications using Docker
-- Kubernetes-based application deployments
-- AWS cloud architectures
 
 
 🎯 Career Goal
